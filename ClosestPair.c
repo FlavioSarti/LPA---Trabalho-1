@@ -51,4 +51,5 @@ void main(){
 		else{
 			printf("\n\n** Entre um vetor v%clido",160);
 		}
+getch();
 }

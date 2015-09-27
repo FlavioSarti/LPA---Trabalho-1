@@ -78,4 +78,5 @@ void main(){
 		gerador_de_vetor(tamanho,vet);
 		insertion(tamanho,vet);
 		percorre_vetor(tamanho, vet, frequencimetro(tamanho,vet));
+		getch();
 }

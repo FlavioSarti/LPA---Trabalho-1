@@ -89,6 +89,6 @@ int main () {
 		printf ("(%d,%d)\n", acima[i].x, acima[i].y);
 	}
 
+	getch();
 	return 0;
-	system("PAUSE");
 }

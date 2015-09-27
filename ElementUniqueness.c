@@ -80,4 +80,5 @@ int main(){
 			printf("\n** Todos os n\243meros repetem, ao menos, uma vez.");
 		}
 	}	
+getch();
 }
