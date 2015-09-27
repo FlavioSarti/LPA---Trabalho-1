@@ -6,12 +6,12 @@ GitHub username: FlavioSarti
 Nº USP: 9312578
 
 (1) Ambiente de desenvolvimento:
-    Software: Dev-C++ 5.9.2
-              -static-libgcc
+        Software: Dev-C++ 5.9.2
+        -static-libgcc
     
-    Compilador: TDM-GCC 4.8.1 64-bit
+        Compilador: TDM-GCC 4.8.1 64-bit
     
-    Bibliotecas: stdio.h e stdlib.h (Convex Hull)
+        Bibliotecas: stdio.h e stdlib.h (Convex Hull)
     
 (2) Códigos e executáveis:
     Para executar o programa, abrir o código-fonte e compilar usando o Dev-C++ (Executar->Compilar&Executar). Pode-se utilizar o executável já pronto em cada pasta.
