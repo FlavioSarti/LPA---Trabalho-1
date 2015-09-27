@@ -7,7 +7,9 @@ Nº USP: 9312578
 
 (1) Ambiente de desenvolvimento:
         Software: Dev-C++ 5.9.2
-                  -static-libgcc
+                        -static-libgcc
+        
+        Arquitetura: Windows 8.1 64 bits
     
         Compilador: TDM-GCC 4.8.1 64-bit
     
